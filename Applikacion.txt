@@ -1,3 +1,7 @@
 SOUT{podaj imie}
 SOUT{podaj haslo}
 Sout{kliknij przycisk zaloguj}
+
+GA:
+SOUT{podaj gmail}
+Sout{kliknij przycisk zaloguj}
