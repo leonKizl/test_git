@@ -1,3 +1,8 @@
 SOUT{podaj imie}
 SOUT{podaj haslo}
 Sout{kliknij przycisk zaloguj}
+
+Social (microsoft):
+
+SOUT{podaj nazwe urz microsoft}
+Sout{kliknij przycisk zaloguj}
