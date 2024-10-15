@@ -13,3 +13,8 @@ b)Sout{kliknij przycisk zaloguj}
 a)SOUT{podaj nazwe urz microsoft}
 b)Sout{kliknij przycisk zaloguj}
 
+4. SMS (logging)
+a)SOUT{podaj numer telefonu}
+b)Sout{wpisz kod z telefonu}
+c)Sout{kliknij przycisk zaloguj}
+
