@@ -13,3 +13,7 @@ b)Sout{kliknij przycisk zaloguj}
 a)SOUT{podaj nazwe urz microsoft}
 b)Sout{kliknij przycisk zaloguj}
 
+4. sMART wATCH
+
+a)SOUT{podaj kod z zegarku}
+b)Sout{kliknij przycisk zaloguj}
