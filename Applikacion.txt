@@ -5,3 +5,10 @@ Sout{kliknij przycisk zaloguj}
 GA:
 SOUT{podaj gmail}
 Sout{kliknij przycisk zaloguj}
+
+
+Social (microsoft):
+
+SOUT{podaj nazwe urz microsoft}
+Sout{kliknij przycisk zaloguj}
+
