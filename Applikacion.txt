@@ -1,14 +1,15 @@
-SOUT{podaj imie}
-SOUT{podaj haslo}
-Sout{kliknij przycisk zaloguj}
+1. Ordinary logging:
+a)SOUT{podaj imie}
+b)SOUT{podaj haslo}
+c)Sout{kliknij przycisk zaloguj}
 
-GA:
-SOUT{podaj gmail}
-Sout{kliknij przycisk zaloguj}
+2. GA:
+a)SOUT{podaj gmail}
+b)Sout{kliknij przycisk zaloguj}
 
 
-Social (microsoft):
+3. Social (microsoft):
 
-SOUT{podaj nazwe urz microsoft}
-Sout{kliknij przycisk zaloguj}
+a)SOUT{podaj nazwe urz microsoft}
+b)Sout{kliknij przycisk zaloguj}
 
