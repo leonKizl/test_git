@@ -1,0 +1,9 @@
+git stash
+git stash apply
+git branch name
+git checkout name
+git branch
+git commit -a -m "kjjlk"
+git revert id
+git reset id
+git branch -d
